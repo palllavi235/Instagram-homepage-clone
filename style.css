@@ -1,0 +1,382 @@
+*{margin:0;
+    background-color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    border:border-box;
+    
+}
+
+
+.instagram {
+    color: rgb(0,0,0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    margin-top:30px;
+    margin-left:  40px;
+    background-color:whitesmoke;
+    border-right: 0.0005px solid rgb(232, 221, 221);
+  position:fixed;
+    
+
+}
+.container {
+    display :flex;
+
+    
+
+}
+.left{margin-top: 20px;
+    margin-left: 10px;
+    color:rgb(0,0,0);
+    display :flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+     font-size:  20px; 
+     
+
+    
+}
+
+
+
+
+.home{
+    margin-top: 20px;
+    margin-left: 10px;
+    color:rgb(0,0,0);
+    display:flex;
+    font-size: 30px;
+    
+     margin-inline: 20px;
+}
+
+
+.p1{ margin-inline: 20px;  
+ }
+ .border:hover{
+    color:rgb(233, 226, 213);
+    border: 0.005px solid rgb(228, 223, 223);
+ }
+.search 
+{display:flex;
+    margin-left: 25px;
+    margin-top:20px; 
+    font-size: larger;
+    
+}
+.p2{
+    margin-inline: 27px;
+}
+.explore
+{display:flex;
+    margin-left: 25px;
+    margin-top:20px;}
+.p3 {margin-left: 20px;
+
+}
+.reels{display:flex;
+    margin-left: 25px;
+    margin-top:20px;
+
+}
+.p4{
+    margin-left:20px ;
+}
+.message{display:flex;
+    margin-left: 25px;
+    margin-top:20px;
+font-size: larger;}
+
+    .p5{
+        margin-left:20px ;
+    }
+    .noti{
+        display:flex;
+            margin-left: 25px;
+            margin-top:20px;
+        font-size: larger;
+        
+    }
+    .p6{
+        margin-left:20px;
+    }
+    .create{display:flex;
+        margin-left: 25px;
+        margin-top:20px;
+    font-size: larger;
+        
+
+    }
+    .p7{
+        margin-left: 20px;
+    }
+    .profile{
+        display:flex;
+            margin-left: 10px;
+            margin-top:20px;
+        font-size: larger;
+        
+    }.pic{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border:5px none black;
+        background-image: url(my\ \ dp.jpg);
+        background-size: cover;
+    }
+    .p8{
+        margin-left: 15px;
+    }
+.thread{
+    display:flex ;
+    margin-left: 10px;
+    margin-top: 200px;
+    font-size: 25px;
+}
+.p9{
+    margin-left:20px ;
+}
+ .more{
+    display:flex;
+    font-size: 25px;
+    margin-left:10px ;
+    margin-top: 10px;
+
+ }   
+.p10{
+    margin-left: 20px;
+}
+
+
+.box{margin-top: 50px;
+    padding-left: 290px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.s1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(188, 14, 43);
+    background-image: url(rishikesh.jpeg);
+    background-size: cover;
+}
+.s2{margin-left: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(222, 33, 64);
+    background-image: url(kedarnath.jpeg);
+    background-size: cover;
+}.s3{margin-left: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(219, 16, 50);
+    background-image: url(badrinath.jpeg);
+    background-size: cover;
+}
+.s4{ margin-left: 5px;
+    height: 50px;
+    
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(233, 14, 50);
+    background-image: url(mussoorie.jpeg);
+    background-size: cover;}
+    .s5{margin-left: 5px;
+        height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(238, 16, 53);
+    background-image: url(queen-of-hills.jpg);
+    background-size: cover;
+    }.s6{margin-left: 5px;
+        height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(219, 29, 61);
+    background-image: url(lansdowne.jpg);
+    background-size: cover;
+    }.s7{margin-left: 5px;
+        height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(227, 19, 54);
+    background-image: url(nanital.jpeg);
+    background-size: cover;
+    }
+    .s8{margin-left: 5px;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border:3px dashed rgb(208, 17, 49);
+        background-image: url(haridwar.jpeg);
+        background-size: cover;}
+.border2:hover{
+    border:3px dashed white
+
+}
+.pk1{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk2{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk3{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk4{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk5{
+    
+        margin-top: 54px;
+        font-size: 70%;
+    }
+
+.pk6{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk7{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.pk8{
+    margin-top: 54px;
+    font-size: 70%;
+}
+.midmain{margin-top: 60px;
+    padding-left: 340px;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    
+
+}.thomso{ height: 50px;
+width:50px;
+border-radius: 50%;
+border:5px none black;
+background-image: url(thomso.jpeg);
+background-size: cover;}
+
+   .h1{ color: darkgrey;
+font-size: 5px;
+}.video{margin-left: 300px;
+}.logo{
+   margin-top: 10px;
+    padding-left: 280px;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    
+
+
+}.likes
+{margin-left: 280px;
+    margin-top: 10px;
+
+}
+.me{
+    display:flex;
+    margin-top: 50px;
+    margin-left: 35px;
+    color: black;
+    
+}
+.pre{
+    height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border:5px none black;
+        background-image: url(my\ \ dp.jpg);
+        background-size: cover;
+}
+
+.name2{
+    margin-left:90px;
+     margin-top: -25px;
+     color: darkgray;
+}.switch{
+    margin-left:40px;
+    color: blue;
+}
+.switch:hover{
+    color:antiquewhite
+}
+.last{
+    margin-top: 30px;
+    display: flex;
+
+}.last2{
+    color:dimgrey;
+    margin-left: 190px;
+    margin-top: -20px;
+}
+.final1{margin-left: 5px;
+    
+    margin-top: 30px;
+    height: 50px;
+width: 50px;
+border-radius: 50%;
+border:3px dashed rgb(238, 16, 53);
+background-image: url(queen-of-hills.jpg);
+background-size: cover;}
+.l1{ 
+    margin-left:70px ;
+    margin-top: -45px;
+
+}.l2{margin-left:200px ;
+    margin-top: -25px;
+color:blue;}
+.l2:hover{
+    color: antiquewhite;
+}.final2
+{margin-left: 5px;
+    margin-top: 50px;
+    height: 50px;
+width: 50px;
+border-radius: 50%;
+border:3px dashed rgb(227, 19, 54);
+background-image: url(nanital.jpeg);
+background-size: cover;
+}
+.l3{ 
+    margin-left:70px ;
+    margin-top: -30px;
+
+}.l4{margin-left:200px ;
+    margin-top: -25px;
+color:blue;}
+.l4:hover:hover{
+    color: antiquewhite;
+}.final3{height: 50px;
+    margin-top: 50px;
+    margin-left: 5px;
+    width: 50px;
+    border-radius: 50%;
+    border:3px dashed rgb(188, 14, 43);
+    background-image: url(rishikesh.jpeg);
+    background-size: cover;
+}.l5{ 
+    margin-left:70px ;
+    margin-top: -30px;
+
+}.l6{margin-left:200px ;
+    margin-top: -25px;
+color:blue;}
+.l6:hover{
+    color: antiquewhite;}
+.finally{margin-top: 66px;
+
+}.end{
+margin-top: 50px;
+
+}
