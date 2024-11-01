@@ -1,1 +1,1 @@
-# Instagram-homepage-clone
+# Instagram-Homepage-Clone
